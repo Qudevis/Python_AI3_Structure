@@ -1,5 +1,5 @@
 # print("As esu importuojamas") 
-
+print("Hello sdfdsfsd")
 def importuota_funkcija(argumentas):
     print("Importuota printina funkcija")
 
